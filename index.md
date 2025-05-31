@@ -13,8 +13,9 @@ Welcome to my personal website! I'm an aeronautical engineer, and this site is a
 
 Here are some of the projects I'm working on:
 
-- [**DroneSim**](https://dronesim.xyz): A UAV simulator for flight dynamics and mission planning.
-- [**Log Analyzer for ArduPilot**](/projects/log-analyzer): A tool to gain insights from flight log data.
+- [**DroneSim**](https://dronesim.xyz): A cloud based UAV simulator for ardupilot and PX4 vehicles. Sign up, spin up a container and connect to your favorite ground station.
+- [**Log Analyzer for ArduPilot**](/projects/log-analyzer): A tool to gain insights from flight log data and generate reports.
+- [**Thanos-UAV Conceptual design tool**](/projects/log-analyzer): Fast design and performance evalulation tool for small unmanned fixed wing aircrafts.
 
 
 ➡️ View all projects [here](/projects)
