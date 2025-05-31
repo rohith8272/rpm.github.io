@@ -26,7 +26,8 @@ Here are some of the projects I'm working on:
 
 I occasionally write about drones, software, and research. Recent posts:
 
-- [Getting Started with Pymavlink – Connecting to a Drone Simulator](/blog/situational-awareness)
+- [Getting Started with Pymavlink – Connecting to a Drone Simulator](https://dronesim.gitbook.io/dronesim-docs/development-tutorials/getting-started-with-pymavlink-connecting-to-a-drone-simulator)
+- [Forwarding MAVLink packets](https://dronesim.gitbook.io/dronesim-docs/development-tutorials/forwarding-mavlink-packets)
 
 ➡️ See all blog posts [here](/blog)
 
