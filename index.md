@@ -3,7 +3,7 @@ layout: home
 title: "Welcome"
 ---
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Rohith Maben]
 
 Welcome to my personal website! I'm a [your profession or interests], and this site is a hub for my projects, technical blogs, and academic publications.
 
