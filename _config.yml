@@ -1,2 +1,14 @@
-markdown: kramdown
+
+
 theme: minima
+
+# Enable minima dark mode
+minima:
+  skin: dark
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
