@@ -3,9 +3,9 @@ layout: home
 title: "Welcome"
 ---
 
-# 👋 Hi, I'm [Rohith Maben]
+# 👋 Hi, I'm Rohith Maben
 
-Welcome to my personal website! I'm a [your profession or interests], and this site is a hub for my projects, technical blogs, and academic publications.
+Welcome to my personal website! I'm a [Aeronautical engineer], and this site is a hub for my projects, technical blogs, and academic publications.
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to my personal website! I'm a [your profession or interests], and this s
 Here are some of the projects I've worked on:
 
 - [**DroneSim**](https://dronesim.xyz): A UAV simulator for flight dynamics and mission planning.
-- [**AI Log Analyzer for ArduPilot**](/projects/log-analyzer): A tool to gain insights from flight log data.
-- [**CRSF GUI Tool**](/projects/crsf-gui): A simple desktop interface for Crossfire serial communication.
+- [**Log Analyzer for ArduPilot**](/projects/log-analyzer): A tool to gain insights from flight log data.
+
 
 ➡️ View all projects [here](/projects)
 
@@ -25,9 +25,7 @@ Here are some of the projects I've worked on:
 
 I occasionally write about drones, software, and research. Recent posts:
 
-- [Designing Situational Awareness Tools for UAV Operators](/blog/situational-awareness)
-- [How I Built a Web-Based MAVLink Telemetry Viewer](/blog/mavlink-web)
-- [Deploying FastAPI with GitHub Pages and VPS](/blog/fastapi-deploy)
+- [Getting Started with Pymavlink – Connecting to a Drone Simulator](/blog/situational-awareness)
 
 ➡️ See all blog posts [here](/blog)
 
@@ -35,15 +33,14 @@ I occasionally write about drones, software, and research. Recent posts:
 
 ## 📚 Publications
 
-- [Situational Awareness in Human-Robot Interaction: A Case Study Using UAVs](https://doi.org/xxxxxx)
-- [Temporal Event Horizons in GPS-Denied UAV Operations](/publications/event-horizon)
-- [More Publications](/publications)
+- [Framework for Assessing Situational Awareness in Beyond Visual Line of Sight UAV Operations](https://dl.acm.org/doi/10.5555/3721488.3721702)
+
 
 ---
 
 ## 📫 Contact
 
-You can reach me via [email@example.com](mailto:email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourname).
+You can reach me via [email@example.com](mailto:rohith8272@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rohithmaben).
 
 ---
 
