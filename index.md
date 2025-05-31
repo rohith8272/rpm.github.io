@@ -40,7 +40,7 @@ I occasionally write about drones, software, and research. Recent posts:
 
 ## 📫 Contact
 
-You can reach me via [email@example.com](mailto:rohith8272@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rohithmaben).
+You can reach me via [rohith8272@gmail.com](mailto:rohith8272@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rohithmaben).
 
 ---
 
