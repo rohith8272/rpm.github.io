@@ -5,13 +5,13 @@ title: "Welcome"
 
 # 👋 Hi, I'm Rohith Maben
 
-Welcome to my personal website! I'm a [Aeronautical engineer], and this site is a hub for my projects, technical blogs, and academic publications.
+Welcome to my personal website! I'm an aeronautical engineer, and this site is a hub for my projects, technical blogs, and academic publications.
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects I'm working on:
 
 - [**DroneSim**](https://dronesim.xyz): A UAV simulator for flight dynamics and mission planning.
 - [**Log Analyzer for ArduPilot**](/projects/log-analyzer): A tool to gain insights from flight log data.
