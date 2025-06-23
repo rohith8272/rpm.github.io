@@ -5,7 +5,9 @@ theme: minima
 # Enable minima dark mode
 minima:
   skin: dark
-
+  include_css:
+    - /assets/custom.css
+    
 markdown: kramdown
 highlighter: rouge
 
