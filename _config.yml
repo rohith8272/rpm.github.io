@@ -6,7 +6,7 @@ theme: minima
 minima:
   skin: dark
   include_css:
-    - /assets/custom.css
+    - /assets/css/custom.css
     
 markdown: kramdown
 highlighter: rouge
